@@ -1,0 +1,323 @@
+
+/* ---- GLOBAL ---- */
+
+* {
+    box-sizing: border-box;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #4a4a4a;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* ---- HEADINGS ---- */
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1.1em;
+    margin-bottom: 40px;
+}
+
+h3 {
+    font-size: 1.6em;
+    font-weight: 300;
+
+}
+
+
+/* ---- SECTIONS, CONTAINERS ---- */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #4a4a4a;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    max-width: 92%;
+}
+
+#header {
+    padding: 30px 0 50px 0;
+    background-color: #fafafa;
+}
+
+#portfolio {
+    padding: 60px 0 60px 0;
+}
+
+#contact {
+    background-color: #fafafa;
+    padding: 60px 0 30px 0;
+}
+
+/* ---- HEADER ---- */
+
+.name {
+    font-weight: 600;
+    font-size: 2em;
+    margin: 0 0 30px 0;
+}
+
+.nav {
+    margin: 0 0 40px 0;
+    padding: 0;
+}
+
+.nav li {
+    background-color: #fff;
+    margin-bottom: 6px;
+}
+
+.nav li a {
+    display: block;
+    padding: 14px 0 14px 0;
+    font-size: 1em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.profile-picture {
+    width: 75%;
+    margin-bottom: 40px;
+}
+
+.short-description {
+    margin: 0;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+
+
+
+/* ---- PORTFOLIO ---- */
+
+.project {
+    margin-bottom: 40px;
+}
+
+.portfolio-preview {
+    width: 100%;
+}
+
+.project-description {
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5em;
+    margin
+}
+
+
+
+/* ---- CONTACT ---- */
+
+.contact-description {
+    margin-bottom: 30px;
+}
+
+.contact-info {
+    font-size: 1em;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+
+.contact-anchor {
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+.footer {
+    margin-top: 50px;
+    border-top: 1px solid #e7e7e7;
+    padding-top: 15px;
+    font-weight: 600;
+}
+
+.footer-name {
+    float: left;
+}
+
+.back-to-top-btn {
+    float: right;
+    text-transform: uppercase;
+}
+
+.nav-bottom {
+    display: none;
+}
+
+
+
+/* ---- ClearFix ---- */
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (min-width: 768px) {
+
+    /* ---- SECTIONS, CONTAINERS ---- */
+
+    #header {
+        padding: 60px 0 40px 0;
+    }
+
+    #portfolio {
+        padding: 40px 0 40px 0;
+    }
+
+    #contact {
+        padding: 40px 0 30px 0;
+    }
+
+
+
+    /* ---- HEADER ---- */
+
+    .name {
+        margin-bottom: 20px;
+    }
+
+    .nav {
+        display: block;
+    }
+
+    .nav li {
+        display: inline-block;
+        background-color: transparent;
+        margin-right: 40px;
+    }
+
+    .nav li:nth-child(3n) {
+        margin-right: 0;
+    }
+
+    .profile-picture {
+        width: 40%;
+        float: right;
+    }
+
+    .short-description {
+        width: 60%;
+        float: right;
+        text-align: left;
+        padding-right: 30px;
+        font-size: 1.2rem;
+    }
+
+
+
+    /* ---- PORTFOLIO ---- */
+
+    .project {
+        width: 50%;
+        float: left;
+        padding: 0 10px;
+    }
+
+    .project:nth-child(2n) {
+        clear: left;
+    }
+
+
+
+    /* ---- CONTACT ---- */
+
+    .contact-description {
+        text-align: center;
+        float: none;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+    }
+
+    .contact-info {
+        font-size: 1.2rem;
+    }
+
+    .back-to-top-btn {
+        display: none;
+    }
+
+    .footer-name {
+        font-size: 1.2rem;
+    }
+
+    .nav-bottom {
+        display: inline-block;
+        float: right;
+        margin: 0;
+    }
+
+    .nav-bottom li {
+        display: inline-block;
+        text-align: right;
+        margin-left: 40px;
+        text-transform: uppercase;
+
+    }
+}
+
+@media (min-width: 1024px) {
+
+    /* ---- SECTIONS, CONTAINERS ---- */
+
+    #portfolio {
+        padding: 40px 0 40px 0;
+    }
+
+    #contact {
+        padding: 40px 0 30px 0;
+    }
+
+
+
+    /* ---- HEADER ---- */
+
+    .name {
+        float: left;
+    }
+
+    .nav {
+        float: right;
+    }
+
+
+
+    /* ---- PORTFOLIO ---- */
+
+    .project {
+        width: 33%;
+    }
+
+    .project:nth-child(2n) {
+        clear:none;
+    }
+
+    .project:nth-child(5n) {
+        clear: left;
+    }
+
+
+
+    /* ---- FOOTER ---- */
+
+    .contact-description {
+        width: 60%;
+    }
+}
