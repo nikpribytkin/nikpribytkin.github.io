@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="80px" viewBox="0 0 107 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="7.99479167%" y1="4.90030317%" x2="86.9160707%" y2="97.4857377%" id="linearGradient-1">
+            <stop stop-color="#6293E7" stop-opacity="0.855213995" offset="0%"></stop>
+            <stop stop-color="#335ACA" stop-opacity="0.859148551" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="66" y="47" width="24" height="9" rx="4.5"></rect>
+        <filter x="-25.0%" y="-66.7%" width="150.0%" height="233.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.188802083 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="83.375%" y1="26.1160714%" x2="15.0236203%" y2="95.1178608%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.617753623" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.530683877" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atlas-(landing-page)" transform="translate(-70.000000, -1224.000000)">
+            <g id="Group-9" transform="translate(70.000000, 1224.000000)">
+                <rect id="Rectangle-12-Copy-4" fill="url(#linearGradient-1)" x="0" y="0" width="107" height="80" rx="4"></rect>
+                <rect id="Rectangle-13-Copy-2" fill-opacity="0.583106884" fill="#FFFFFF" x="17" y="47" width="56" height="9" rx="4.5"></rect>
+                <g id="Rectangle-13-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#D3EB54" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <text id="Яндекс" fill="url(#linearGradient-4)" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold">
+                    <tspan x="19" y="36">Яндекс</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

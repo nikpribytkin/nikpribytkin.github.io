@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="107px" viewBox="0 0 76 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="7.99479167%" y1="4.90030317%" x2="86.9160707%" y2="97.4857377%" id="linearGradient-1">
+            <stop stop-color="#6293E7" stop-opacity="0.855213995" offset="0%"></stop>
+            <stop stop-color="#335ACA" stop-opacity="0.859148551" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="76" height="107" rx="4"></rect>
+        <linearGradient x1="83.375%" y1="26.1160714%" x2="12.7955048%" y2="97.3671782%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.597882699" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.320538949" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atlas-(landing-page)" transform="translate(-480.000000, -874.000000)">
+            <g id="Group-7" transform="translate(480.000000, 874.000000)">
+                <g id="Group-4-Copy">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Rectangle-2" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <rect id="Rectangle-6" fill-opacity="0.128566576" fill="#000000" mask="url(#mask-3)" x="0" y="72" width="76" height="35"></rect>
+                    <rect id="Rectangle-3-Copy" fill-opacity="0.346099411" fill="#FFFFFF" mask="url(#mask-3)" x="5" y="80" width="66" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-3-Copy-2" fill-opacity="0.346099411" fill="#FFFFFF" mask="url(#mask-3)" x="5" y="88" width="58" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-3-Copy-4" fill-opacity="0.346099411" fill="#FFFFFF" mask="url(#mask-3)" x="5" y="95" width="63.1578947" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-3" fill="url(#linearGradient-4)" mask="url(#mask-3)" x="49" y="17" width="22" height="27" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-6" fill="url(#linearGradient-4)" mask="url(#mask-3)" x="5" y="17" width="40" height="27" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-5" fill-opacity="0.449162138" fill="#FFFFFF" mask="url(#mask-3)" x="5" y="8" width="19" height="4" rx="2"></rect>
+                    <rect id="Rectangle-3-Copy-10" fill-opacity="0.449162138" fill="#FFFFFF" mask="url(#mask-3)" x="52" y="8" width="19" height="4" rx="1"></rect>
+                    <path d="M52,21 L68,21 L68,21 C68.5522847,21 69,21.4477153 69,22 L69,24 L69,24 C69,24.5522847 68.5522847,25 68,25 L52,25 L52,25 C51.4477153,25 51,24.5522847 51,24 L51,22 L51,22 C51,21.4477153 51.4477153,21 52,21 Z" id="Rectangle-3-Copy-7" fill-opacity="0.388898324" fill="#3355B2" mask="url(#mask-3)"></path>
+                    <path d="M52,27 L68,27 L68,27 C68.5522847,27 69,27.4477153 69,28 L69,30 L69,30 C69,30.5522847 68.5522847,31 68,31 L52,31 L52,31 C51.4477153,31 51,30.5522847 51,30 L51,28 L51,28 C51,27.4477153 51.4477153,27 52,27 Z" id="Rectangle-3-Copy-8" fill-opacity="0.388898324" fill="#3355B2" mask="url(#mask-3)"></path>
+                    <path d="M54,35 L66,35 L66,35 C67.6568542,35 69,36.3431458 69,38 L69,38 L69,38 C69,39.6568542 67.6568542,41 66,41 L54,41 L54,41 C52.3431458,41 51,39.6568542 51,38 L51,38 L51,38 C51,36.3431458 52.3431458,35 54,35 Z" id="Rectangle-3-Copy-9" fill-opacity="0.773522418" fill="#E6FF2E" mask="url(#mask-3)"></path>
+                    <circle id="Oval" fill="#FFFFFF" opacity="0.400000006" mask="url(#mask-3)" cx="15" cy="58" r="5"></circle>
+                    <circle id="Oval-Copy" fill="#FFFFFF" opacity="0.400000006" mask="url(#mask-3)" cx="38" cy="58" r="5"></circle>
+                    <circle id="Oval-Copy-2" fill="#FFFFFF" opacity="0.400000006" mask="url(#mask-3)" cx="60" cy="58" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

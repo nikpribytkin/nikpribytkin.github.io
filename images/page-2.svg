@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="107px" viewBox="0 0 76 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="7.99479167%" y1="4.90030317%" x2="86.9160707%" y2="97.4857377%" id="linearGradient-1">
+            <stop stop-color="#6293E7" stop-opacity="0.855213995" offset="0%"></stop>
+            <stop stop-color="#335ACA" stop-opacity="0.859148551" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="83.375%" y1="26.1160714%" x2="12.7955048%" y2="97.3671782%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.597882699" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.320538949" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atlas-(landing-page)" transform="translate(-891.000000, -874.000000)">
+            <g id="Group-8" transform="translate(891.000000, 874.000000)">
+                <g id="Group-4-Copy-2">
+                    <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="0" width="76" height="107" rx="4"></rect>
+                    <rect id="Rectangle-3-Copy-5" fill-opacity="0.449162138" fill="#FFFFFF" x="5" y="8" width="19" height="4" rx="2"></rect>
+                    <rect id="Rectangle-3-Copy-10" fill-opacity="0.449162138" fill="#FFFFFF" x="52" y="8" width="19" height="4" rx="1"></rect>
+                    <rect id="Rectangle-3" fill="url(#linearGradient-2)" x="5" y="17" width="66" height="27" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-13" fill-opacity="0.191293025" fill="#000000" x="5" y="48" width="46" height="4" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-24" fill-opacity="0.191293025" fill="#000000" x="5" y="91" width="66" height="10" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-16" fill-opacity="0.499094203" fill="#FFFFFF" x="5" y="56" width="14" height="14" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-17" fill-opacity="0.499094203" fill="#FFFFFF" x="22" y="56" width="14" height="14" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-18" fill-opacity="0.499094203" fill="#FFFFFF" x="39" y="56" width="14" height="14" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-19" fill-opacity="0.499094203" fill="#FFFFFF" x="56" y="56" width="15" height="14" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-23" fill-opacity="0.499094203" fill="#FFFFFF" x="5" y="73" width="14" height="14" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-22" fill-opacity="0.499094203" fill="#FFFFFF" x="22" y="73" width="14" height="14" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-21" fill-opacity="0.499094203" fill="#FFFFFF" x="39" y="73" width="14" height="14" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-20" fill-opacity="0.499094203" fill="#FFFFFF" x="56" y="73" width="15" height="14" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-15" fill-opacity="0.191293025" fill="#000000" x="54" y="48" width="17" height="4" rx="1"></rect>
+                    <rect id="Rectangle-3-Copy-25" fill="#D3EB54" x="9" y="34" width="21" height="6" rx="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

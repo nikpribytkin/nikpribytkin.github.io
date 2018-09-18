@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="35px" viewBox="0 0 121 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="7.99479167%" y1="4.90030317%" x2="86.9160707%" y2="97.4857377%" id="linearGradient-1">
+            <stop stop-color="#6293E7" stop-opacity="0.855213995" offset="0%"></stop>
+            <stop stop-color="#335ACA" stop-opacity="0.859148551" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="83.375%" y1="26.1160714%" x2="13.7914049%" y2="96.3618015%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.769701087" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.634567482" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="83.375%" y1="26.1160714%" x2="14.9420352%" y2="95.2002222%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.748329937" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.562669837" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atlas-(landing-page)" transform="translate(-480.000000, -1256.000000)">
+            <g id="Group-10" transform="translate(480.000000, 1256.000000)">
+                <rect id="Rectangle-12" fill="url(#linearGradient-1)" x="0" y="0" width="121" height="35" rx="4"></rect>
+                <text id="www." fill="url(#linearGradient-2)" font-family="ProximaNova-Bold, Proxima Nova" font-size="24" font-weight="bold">
+                    <tspan x="42" y="24">www.</tspan>
+                </text>
+                <path d="M33.5350043,25.2895746 L29.4073516,21.1619978 C29.385415,21.1400612 29.3596831,21.1247283 29.3367597,21.1043098 C30.1489461,19.8722914 30.6229745,18.3975279 30.6229745,16.8115632 C30.6229745,12.4973353 27.1256392,9 22.8114873,9 C18.4973353,9 15,12.4973353 15,16.8114873 C15,21.1255633 18.4972594,24.6229745 22.8114114,24.6229745 C24.397452,24.6229745 25.8721396,24.1489461 27.104158,23.3367597 C27.1245765,23.3596072 27.1398335,23.3853391 27.1617701,23.4072757 L31.2894987,27.5350043 C31.9095689,28.1549986 32.9148583,28.1549986 33.5350043,27.5350043 C34.1549986,26.9149342 34.1549986,25.9096448 33.5350043,25.2895746 Z M23.0000372,22 C20.2385496,22 18,19.7614504 18,17.0000372 C18,14.2385496 20.2386239,12 23.0000372,12 C25.7613761,12 28,14.2386239 28,17.0000372 C28,19.7614504 25.7613761,22 23.0000372,22 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

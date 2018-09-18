@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="97.485739%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#CAE760" stop-opacity="0.670091712" offset="0%"></stop>
+            <stop stop-color="#D3EB54" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atlas-(landing-page)" transform="translate(-567.000000, -1285.000000)" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <path d="M583.645078,1298.34119 L591,1293.5822 L567,1285 L575.582109,1309 L580.341187,1301.64508 L585.493594,1306.79748 C586.405922,1307.70981 587.885109,1307.70977 588.797484,1306.79748 C589.709766,1305.88516 589.709766,1304.40597 588.797484,1303.49359 L583.645078,1298.34119 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
